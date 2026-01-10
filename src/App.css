@@ -1,0 +1,37 @@
+.app {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  padding: 2rem;
+  color: #222;
+}
+
+.input-section {
+  margin: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 250px;
+  margin-right: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.quiz-section {
+  margin-top: 30px;
+  text-align: left;
+  display: inline-block;
+}
